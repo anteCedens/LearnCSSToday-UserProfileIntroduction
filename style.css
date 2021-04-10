@@ -1,0 +1,26 @@
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.green-bg {
+  background-color: green;
+}
+
+.white-text {
+  color: white;
+}
+
+.turquoise-text {
+  color: turquoise;
+}
+
+/*Adding 'list-style-position: inside;' would also
+strikethrough the list item number, but it would
+also indent that item*/
+.strikethrough-text {
+  text-decoration-line: line-through;
+}
